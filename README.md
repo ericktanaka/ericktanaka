@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Eu sou Erick Tanaka, sou Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e JavaScript.
+Sou Erick Tanaka amante da tecnologia e por isso resolvi me tornar programador, realizando minha transição de carreira.
+Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e Desenvolvedor FullStack.
+Na programação tenho sólidos conhecimentos de Front end com tecnologias como: HTML , CSS e JavaScript, onde realizei alguns projetos utilizando as tecnologias supracitadas;
+As ferramentas utilizadas para o desenvolvimento dos projetos foram: Visual Studio Code, Figma, Git e GitHub
 <br>
 ### Conecte-se comigo:
 <p>
