@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Sou Erick Tanaka amante da tecnologia e por isso resolvi me tornar programador, realizando minha transição de carreira.
-Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e Desenvolvedor FullStack.
-Na programação tenho sólidos conhecimentos de Front end com tecnologias como: HTML , CSS e JavaScript, onde realizei alguns projetos utilizando as tecnologias supracitadas;
-As ferramentas utilizadas para o desenvolvimento dos projetos foram: Visual Studio Code, Figma, Git e GitHub
+Me chamo Erick Tanaka, há algum tempo descobri que sou um amante da tecnologia e por isso estou realizando minha transição de carreira para a área da programação.
+
+Atualmente faço graduação em Análise e Desenvolvimento de Sistemas, além de me aprimorar com a plataforma DevClub, que auxilia no desenvolvimento Full Stack.
+
+Na programação possuo sólidos conhecimentos em Front End com tecnologias como HTML, CSS e JavaScript, com os quais já realizei alguns projetos utilizando as ferramentas Visual Studio Code (VS Code), Figma, Git e GitHub. 
 <br>
 ### Conecte-se comigo:
 <p>
